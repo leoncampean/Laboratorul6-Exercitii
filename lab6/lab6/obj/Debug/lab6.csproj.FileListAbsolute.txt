@@ -1,0 +1,6 @@
+/Users/leoncampean/Projects/lab6/lab6/obj/Debug/lab6.csproj.AssemblyReference.cache
+/Users/leoncampean/Projects/lab6/lab6/obj/Debug/lab6.csproj.CoreCompileInputs.cache
+/Users/leoncampean/Projects/lab6/lab6/bin/Debug/lab6.exe
+/Users/leoncampean/Projects/lab6/lab6/bin/Debug/lab6.pdb
+/Users/leoncampean/Projects/lab6/lab6/obj/Debug/lab6.exe
+/Users/leoncampean/Projects/lab6/lab6/obj/Debug/lab6.pdb
